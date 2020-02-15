@@ -1,15 +1,7 @@
 # expirirents-v1.1
-## Implementation
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a multi-page web application built using React designed for a fictional recreation company. The application is meant to simulate an e-commerce company.
 
-### Setup
+### How To Use
+You'll need node and npm installed. Clone the repo and run `npm install` in terminal. Once completed, run `npm start`.
 
-You'll need node and npm installed. Clone the repo and run `npm install` in terminal.
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Screenshots
