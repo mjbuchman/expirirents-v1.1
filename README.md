@@ -5,3 +5,4 @@ This project is a multi-page web application built using React designed for a fi
 You'll need node and npm installed. Clone the repo and run `npm install` in terminal. Once completed, run `npm start`.
 
 ### Screenshots
+![Main page](https://postimg.cc/vgVNBLKJ)
