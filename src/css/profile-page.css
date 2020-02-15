@@ -1,0 +1,91 @@
+
+.profile-page{
+	text-align: center;
+	width: 100%;
+}
+
+.page-col{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	min-height: 800px;
+}
+
+.account-heading{
+	font-weight: 300;
+	font-size: 60px;
+	text-align: center;
+}
+
+.account-subheader1{
+	color: #012e60;
+	text-align: center;
+	font-weight: 400;
+}
+
+.account-subheader2{
+	color: #eb8e6d;
+	text-align: center;
+	font-weight: 600;
+	margin-bottom:100px;
+}
+
+.tabs{
+	text-align: center;
+}
+
+.tab-header1{
+	padding: 20px;
+	font-weight: 300;
+	font-size: 40px;
+	margin: 0 auto;
+	text-align: center;
+	width: 150px;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #eb8e6d;
+}
+
+.tab-header2{
+	padding: 20px;
+	font-weight: 300;
+	font-size: 40px;
+	margin: 0 auto;
+	text-align: center;
+	width: 250px;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #eb8e6d;
+}
+
+.section{
+	padding: 0px;
+	margin: 0 auto;
+	text-align: center;
+	width: 300px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #9e9c9b;
+}
+
+.section-title{
+	color: #012e60;
+	font-weight: 600;
+}
+
+.section-content{
+	color: #012e60;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+#invis {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+  
